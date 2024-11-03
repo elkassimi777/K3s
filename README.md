@@ -1,6 +1,9 @@
-# K3s
+K3s Setup Guide
+In this repository, I will outline all the steps to set up a K3s Kubernetes cluster.
 
-# In this repos i will show all the steps to set up k3s cluster
+Overview
+This setup will demonstrate how to configure a K3s cluster with:
 
-
-
+One master node: Your local computer
+One worker node: A Raspberry Pi device
+The guide will take you through each step to connect these nodes into a functional Kubernetes cluster.
